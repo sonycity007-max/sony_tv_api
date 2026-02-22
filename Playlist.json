@@ -1,223 +1,37 @@
 [
   {
-    "name": "Somoy TV",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
-    "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png"
+    "category": "News",
+    "channels": [
+      {
+        "name": "Somoy TV (Server 1)",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+        "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png"
+      },
+      {
+        "name": "Independent TV (Server 1)",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
+        "logo": "https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png"
+      },
+      {
+        "name": "Somoy TV (Server 2)",
+        "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
+        "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png"
+      },
+      {
+        "name": "Independent TV (Server 2)",
+        "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
+        "logo": "https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png"
+      }
+    ]
   },
   {
-    "name": "Independent TV",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
-    "logo": "https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png"
-  },
-  {
-    "name": "T Sports",
-    "url": "http://103.145.113.8:7171/t-sports/index.m3u8",
-    "logo": "https://tvassets.roarzone.info/images/102.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
-  },
-  {
-    "name": "Somoy TV",
-    "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-    "logo": "https://example.com/somoy_logo.png"
-  },
-  {
-    "name": "Independent TV",
-    "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-    "logo": "https://example.com/independent_logo.png"
+    "category": "Sports",
+    "channels": [
+      {
+        "name": "T Sports",
+        "url": "http://103.145.113.8:7171/t-sports/index.m3u8",
+        "logo": "https://tvassets.roarzone.info/images/102.png"
+      }
+    ]
   }
-
 ]
