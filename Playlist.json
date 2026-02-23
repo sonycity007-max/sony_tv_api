@@ -1,36 +1,126 @@
 [
   {
-    "category": "News",
+    "category": "Bangla News",
     "channels": [
       {
-        "name": "Somoy TV (Server 1)",
+        "name": "Somoy TV",
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
         "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png"
       },
       {
-        "name": "Independent TV (Server 1)",
+        "name": "Jamuna TV",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
+        "logo": "https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png"
+      },
+      {
+        "name": "Independent TV",
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8",
         "logo": "https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png"
       },
       {
-        "name": "Somoy TV (Server 2)",
-        "url": "https://somoytv-live.cdngslb.com/somoytv/live/index.m3u8",
-        "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png"
-      },
-      {
-        "name": "Independent TV (Server 2)",
-        "url": "https://independenttv.cdn.mangotv.net/independent/index.m3u8",
-        "logo": "https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png"
+        "name": "Ekattor TV",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
+        "logo": "https://s4.gifyu.com/images/imagea02f4314e761661d.png"
       }
     ]
   },
   {
-    "category": "Sports",
+    "category": "Sports Live",
     "channels": [
       {
-        "name": "T Sports",
-        "url": "http://103.145.113.8:7171/t-sports/index.m3u8",
-        "logo": "https://tvassets.roarzone.info/images/102.png"
+        "name": "T Sports HD",
+        "url": "https://tvsen7.aynascope.net/tsports-hd/index.m3u8",
+        "logo": "http://tvassets.roarzone.info/images/102.png"
+      },
+      {
+        "name": "Star Sports 1 Hindi",
+        "url": "https://n1.sanwalyaarpya.com:1686/hls/starhindi.m3u8",
+        "logo": "https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png"
+      },
+      {
+        "name": "PTV Sports HD",
+        "url": "https://n7.sanwalyaarpya.com:1686/hls/ptvpk.m3u8",
+        "logo": "http://tvassets.roarzone.info/images/73.png"
+      },
+      {
+        "name": "Sony Ten Sports 1",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8",
+        "logo": "http://tvassets.roarzone.info/images/20.png"
+      }
+    ]
+  },
+  {
+    "category": "Entertainment",
+    "channels": [
+      {
+        "name": "Zee Bangla",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8",
+        "logo": "http://tvassets.roarzone.info/images/34.png"
+      },
+      {
+        "name": "Sony Aath",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8",
+        "logo": "http://tvassets.roarzone.info/images/33.png"
+      },
+      {
+        "name": "Star Jalsha",
+        "url": "https://edge2.roarzone.info:8445/roarzone/edge2/star-jalsha/index.m3u8",
+        "logo": "http://tvassets.roarzone.info/images/30.png"
+      }
+    ]
+  },
+  {
+    "category": "Movies",
+    "channels": [
+      {
+        "name": "Sony MAX HD",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8",
+        "logo": "http://tvassets.roarzone.info/images/sonymaxhd.png"
+      },
+      {
+        "name": "Zee Cinema HD",
+        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8",
+        "logo": "http://tvassets.roarzone.info/images/76.png"
+      },
+      {
+        "name": "B4U Movies",
+        "url": "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8",
+        "logo": "http://tvassets.roarzone.info/images/b4umovies.png"
+      }
+    ]
+  },
+  {
+    "category": "Kids & Cartoons",
+    "channels": [
+      {
+        "name": "Gopal Bhar (24/7)",
+        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8",
+        "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/main/cartoons/gopal.png"
+      },
+      {
+        "name": "Motu Patlu (24/7)",
+        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8",
+        "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/main/cartoons/motu.png"
+      },
+      {
+        "name": "Doraemon",
+        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
+        "logo": "https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/main/cartoons/doraemon.png"
+      }
+    ]
+  },
+  {
+    "category": "Islamic",
+    "channels": [
+      {
+        "name": "Makkah Live",
+        "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+        "logo": "https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png"
+      },
+      {
+        "name": "Madani TV",
+        "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+        "logo": "https://s3.aynaott.com/storage/813fca9bc7df9a4810efe2eb87c57039"
       }
     ]
   }
