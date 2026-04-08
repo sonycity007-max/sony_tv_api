@@ -1,119 +1,88 @@
-[
-  {
-    "category": "ICC World Cup 2026",
-    "channels": [
-      {
-        "name": "T-Sports Live 1",
-        "logo": "http://tvassets.roarzone.info/images/102.png",
-        "url": "http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "T-Sports Server 2",
-        "logo": "http://tvassets.roarzone.info/images/102.png",
-        "url": "https://amitomar.bdixbd.net/hoichoi.pro1/tracks-v1/index.fmp4.m3u8"
-      },
-      {
-        "name": "T-Sports BDIX",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg",
-        "url": "http://135.125.109.73:9000/beinsport1_.m3u8"
-      },
-      {
-        "name": "P-TV Sports HD",
-        "logo": "http://tvassets.roarzone.info/images/73.png",
-        "url": "http://135.125.109.73:9000/beinsport2_.m3u8"
-      },
-      {
-        "name": "Star Sports 1",
-        "logo": "http://tvassets.roarzone.info/images/25.png",
-        "url": "http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8"
-      }
-    ]
-  },
-  {
-    "category": "BANGLA NEWS",
-    "channels": [
-      {
-        "name": "Somoy TV",
-        "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
-      },
-      {
-        "name": "Jamuna TV",
-        "logo": "https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
-      },
-      {
-        "name": "Ekattor TV",
-        "logo": "https://s4.gifyu.com/images/imagea02f4314e761661d.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
-      },
-      {
-        "name": "Independent TV",
-        "logo": "https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
-      }
-    ]
-  },
-  {
-    "category": "BANGLA ENTERTAINMENT",
-    "channels": [
-      {
-        "name": "NTV",
-        "logo": "https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
-      },
-      {
-        "name": "Deepto TV",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",
-        "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8"
-      },
-      {
-        "name": "Channel I",
-        "logo": "https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
-      },
-      {
-        "name": "ATN Bangla",
-        "logo": "https://s6.gifyu.com/images/image27cfa7002786c232.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
-      }
-    ]
-  },
-  {
-    "category": "KIDS",
-    "channels": [
-      {
-        "name": "Duronto TV",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
-        "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8"
-      },
-      {
-        "name": "ZB Cartoon",
-        "logo": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg",
-        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
-      },
-      {
-        "name": "Duck TV",
-        "logo": "https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",
-        "url": "https://server.zillarbarta.com/ducktv/index.m3u8"
-      }
-    ]
-  },
-  {
-    "category": "DOCUMENTARY",
-    "channels": [
-      {
-        "name": "Animal Planet HD",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png",
-        "url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8"
-      },
-      {
-        "name": "WildEarth",
-        "logo": "https://wildearth.tv/wp-content/uploads/2020/12/WE-Logo.png",
-        "url": "https://wildearth-plex.amagi.tv/master.m3u8"
-      }
-    ]
-  }
-]
+# --- SPORTS & WORLD CUP 2026 (Priority List) ---
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="Sports",T-Sports Live 1
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="Sports",T-Sports Server 2
+https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg" group-title="Sports",T-Sports BDIX
+https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png" group-title="Sports",Star Sports 1 HD
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+#EXTVLCOPT:http-origin=https://executeandship.com
+https://n100.zohanayaan.com:1686/hls/star1in.m3u8?md5=ZuDuIxaKxeCWJaYpNIAKBg&expires=1775680929
+
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Sports",Star Sports 1 (Alt)
+http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/73.png" group-title="Sports",P-TV Sports HD
+http://135.125.109.73:9000/beinsport2_.m3u8
+
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png" group-title="Sports",Ten Sports HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98.ts
+
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png" group-title="Sports",PTV Sports (Live)
+https://n100.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=ypW-pB8Yvx7gRCl5-p6KfQ&expires=1775680929
+
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
+https://n100.zohanayaan.com:1686/hls/willowusa.m3u8?md5=e9KzPg_dseooarAVyXC3Uw&expires=1775680929
+
+#EXTINF:-1 tvg-logo="https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8" group-title="Sports",Bein Sports 1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket" group-title="Sports",Sony Ten Cricket HD
+https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png" group-title="Sports",Super Football
+https://n100.zohanayaan.com:1686/hls/superfotball.m3u8?md5=LVzIJMgolTNKUX3ohmgllA&expires=1775680933
+
+# --- BANGLA NEWS ---
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangla News",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="Bangla News",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangla News",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+# --- BANGLA ENTERTAINMENT ---
+#EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg" group-title="Entertainment",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Entertainment",Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png" group-title="Entertainment",Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515" group-title="Entertainment",Star Jalsha HD
+https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
+
+# --- KIDS ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",Duronto TV
+https://tvsen4.aynaott.com/durontotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Kids",Motu Patlu 24/7
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Kids",Gopal Var 24/7
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Kids",Doraemon 24/7
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
+
+# --- DOCUMENTARY ---
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet HD
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://wildearth.tv/wp-content/uploads/2020/12/WE-Logo.png" group-title="Documentary",WildEarth HD
+https://wildearth-plex.amagi.tv/master.m3u8
+
+# --- ISLAMIC ---
+#EXTINF:-1 tvg-logo="https://streaming.madanichannel.tv/logo.png" group-title="Islamic",Madani Tv
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8" group-title="Islamic",Saudi Quran
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
