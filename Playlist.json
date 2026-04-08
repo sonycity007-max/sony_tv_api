@@ -1,14 +1,19 @@
 [
   {
-    "category": "ICC World Cup 2026",
+    "category": "ICC World Cup 2026 & Sports",
     "channels": [
       {
-        "name": "T-Sports Live 1",
+        "name": "T-Sports Live 1 (Server 1)",
         "logo": "http://tvassets.roarzone.info/images/102.png",
         "url": "http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8"
       },
       {
-        "name": "T-Sports Server 2",
+        "name": "T-Sports Live 1 (Server 2)",
+        "logo": "http://tvassets.roarzone.info/images/102.png",
+        "url": "https://mflixott.com/tv/plusbox/live/TSports/index.m3u8"
+      },
+      {
+        "name": "T-Sports Live 1 (Server 3)",
         "logo": "http://tvassets.roarzone.info/images/102.png",
         "url": "https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8"
       },
@@ -40,6 +45,116 @@
     ]
   },
   {
+    "category": "BANGLA ENTERTAINMENT",
+    "channels": [
+      {
+        "name": "Star Jalsha HD",
+        "logo": "https://i.postimg.cc/1tmcNHW3/Star-Jalsha-HD.jpg",
+        "url": "http://103.182.170.32:8888/play/a046"
+      },
+      {
+        "name": "Zee Bangla HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png",
+        "url": "http://103.161.153.165:8000/play/zeebnhd/index.m3u8"
+      },
+      {
+        "name": "Colors Bangla HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png",
+        "url": "http://103.229.254.25:7001/play/a0ds/index.m3u8"
+      },
+      {
+        "name": "Sony Aath",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.jpeg",
+        "url": "http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "NTV",
+        "logo": "https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
+      },
+      {
+        "name": "Deepto TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",
+        "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8"
+      },
+      {
+        "name": "Channel I",
+        "logo": "https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
+      },
+      {
+        "name": "GTV (Gazi TV)",
+        "logo": "https://s3.aynaott.com/storage/417a833f6d83021c99bfc3d4176610f4",
+        "url": "https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "INFOTAINMENT",
+    "channels": [
+      {
+        "name": "Discovery HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png",
+        "url": "http://103.175.73.12:8080/live/135/135_0.m3u8"
+      },
+      {
+        "name": "National Geographic HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png",
+        "url": "http://103.229.254.25:7001/play/a038/index.m3u8"
+      },
+      {
+        "name": "Animal Planet HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png",
+        "url": "http://103.175.73.12:8080/live/328/328_0.m3u8"
+      },
+      {
+        "name": "Sony BBC Earth HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg",
+        "url": "http://103.175.73.12:8080/live/255/255_0.m3u8"
+      },
+      {
+        "name": "History TV 18 HD",
+        "logo": "https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png",
+        "url": "http://103.175.73.12:8080/live/443/443_0.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "KIDS & CARTOON",
+    "channels": [
+      {
+        "name": "Duronto TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
+        "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8"
+      },
+      {
+        "name": "Cartoon Network HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png",
+        "url": "http://103.175.73.12:8080/live/127/127_0.m3u8"
+      },
+      {
+        "name": "Nick Bangla",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png",
+        "url": "http://103.182.170.32:8888/play/a04q"
+      },
+      {
+        "name": "Sony Yay",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Yay.png",
+        "url": "http://103.182.170.32:8888/play/a04m"
+      },
+      {
+        "name": "Pogo",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg",
+        "url": "http://103.182.170.32:8888/play/a02p"
+      },
+      {
+        "name": "Gopal Bhar",
+        "logo": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg",
+        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8"
+      }
+    ]
+  },
+  {
     "category": "BANGLA NEWS",
     "channels": [
       {
@@ -66,91 +181,6 @@
         "name": "Channel 24",
         "logo": "https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
-      }
-    ]
-  },
-  {
-    "category": "BANGLA ENTERTAINMENT",
-    "channels": [
-      {
-        "name": "NTV",
-        "logo": "https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
-      },
-      {
-        "name": "Deepto TV",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",
-        "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8"
-      },
-      {
-        "name": "Channel I",
-        "logo": "https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
-      },
-      {
-        "name": "GTV",
-        "logo": "https://s3.aynaott.com/storage/417a833f6d83021c99bfc3d4176610f4",
-        "url": "https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8"
-      },
-      {
-        "name": "Star Jalsha HD",
-        "logo": "https://s3.aynaott.com/storage/890de862bcd876c54da7f3c0a3af0515",
-        "url": "https://playztv-apps.pages.dev/star-jalsha/index.m3u8"
-      },
-      {
-        "name": "Zee Bangla",
-        "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8"
-      }
-    ]
-  },
-  {
-    "category": "MOVIES",
-    "channels": [
-      {
-        "name": "Kolkata Movies",
-        "logo": "https://s3.aynaott.com/storage/a535fd3aae1f5dc79e9afa561cf28983",
-        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8"
-      },
-      {
-        "name": "Goldmines Bollywood",
-        "logo": "https://s3.aynaott.com/storage/e92e9e2fb70909f3dd30a8d89e644119",
-        "url": "http://103.175.73.12:8080/live/52/52_0.m3u8"
-      },
-      {
-        "name": "Zee Action",
-        "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Pc3RD5YBtpl-Sbt7doxr/posters/33d667ae-bcc3-4f6b-b376-76c552136923.png",
-        "url": "https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_action/playlist.m3u8"
-      },
-      {
-        "name": "Surongo (Full Movie)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/b/b3/Surongo_poster.jpg",
-        "url": "https://pub-d8f5af7f053343ed8295b16a145f6c1c.r2.dev/siam/[FGBDVibes]Surongo.(2023).480p.mkv"
-      }
-    ]
-  },
-  {
-    "category": "KIDS & CARTOONS",
-    "channels": [
-      {
-        "name": "Duronto TV",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
-      },
-      {
-        "name": "Motu Patlu (24/7)",
-        "logo": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Gopal Bhar (24/7)",
-        "logo": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Doraemon (24/7)",
-        "logo": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
       }
     ]
   },
