@@ -105,12 +105,12 @@
       {
         "name": "Animal Planet HD",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png",
-        "url": "http://103.175.73.12:8080/live/328/328_0.m3u8"
+        "url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8"
       },
       {
         "name": "Sony BBC Earth HD",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg",
-        "url": "http://103.175.73.12:8080/live/255/255_0.m3u8"
+        "url": "https://wildearth-plex.amagi.tv/master.m3u8"
       },
       {
         "name": "History TV 18 HD",
@@ -135,12 +135,12 @@
       {
         "name": "Nick Bangla",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png",
-        "url": "http://103.182.170.32:8888/play/a04q"
+        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
       },
       {
         "name": "Sony Yay",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Yay.png",
-        "url": "http://103.182.170.32:8888/play/a04m"
+        "url": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8"
       },
       {
         "name": "Pogo",
