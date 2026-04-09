@@ -130,7 +130,7 @@
       {
         "name": "Cartoon Network HD",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png",
-        "url": "http://103.175.73.12:8080/live/127/127_0.m3u8"
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
       },
       {
         "name": "Nick Bangla",
@@ -145,7 +145,7 @@
       {
         "name": "Pogo",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg",
-        "url": "http://103.182.170.32:8888/play/a02p"
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
       },
       {
         "name": "Gopal Bhar",
