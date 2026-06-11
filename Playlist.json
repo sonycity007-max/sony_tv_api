@@ -28,6 +28,11 @@
         "url": "https://live.asimxtech.online/skyfeed/index.m3u8"
       },
       {
+        "name": "T-Sports 5",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
+        "url": "http://103.145.113.8:7171/t-sports/index.m3u8"
+      },
+      {
         "name": "Star Sports 1 HD",
         "logo": "https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/Star_Sports_1_HD.png",
         "url": "https://tvsen7.aynaott.com/sspts1/index.m3u8"
