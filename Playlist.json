@@ -3,22 +3,22 @@
     "category": "ICC World Cup 2026 & Sports",
     "channels": [
       {
-        "name": "T Sports HD",
+        "name": "T Sports 1",
         "logo": "https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",
         "url": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8"
       },
       {
-        "name": "T-Sports Live (Server 1)",
+        "name": "T-Sports 2",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
         "url": "http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8"
       },
       {
-        "name": "T-Sports Live (Server 2)",
+        "name": "T-Sports 3",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
         "url": "https://mflixott.com/tv/plusbox/live/TSports/index.m3u8"
       },
       {
-        "name": "T-Sports Live 1 (Server 3)",
+        "name": "T-Sports 4",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
         "url": "https://shihabtv@tvsen7.aynaott.com/tsports-hd/index.m3u8"
       },
