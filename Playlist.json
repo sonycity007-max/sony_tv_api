@@ -3,6 +3,31 @@
     "category": "ICC World Cup 2026 & Sports",
     "channels": [
       {
+        "name": "T-Sports Live 1 (Server 3)",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
+        "url": "https://live.asimxtech.online/skyfeed/index.m3u8"
+      },
+      {
+        "name": "GOL Classics (Football)",
+        "logo": "https://ui-avatars.com/api/?name=GOL+Classics&background=1e293b&color=fff&rounded=true",
+        "url": "https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics_2.m3u8"
+      },
+      {
+        "name": "The Hockey Network (IT TV)",
+        "logo": "https://ui-avatars.com/api/?name=THN&background=1e293b&color=fff&rounded=true",
+        "url": "https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8"
+      },
+      {
+        "name": "Arryadia HD 1",
+        "logo": "https://ui-avatars.com/api/?name=Arryadia+HD&background=1e293b&color=fff&rounded=true",
+        "url": "https://stream-lb.livemediama.com/arryadia-hd-01/hls/stream_1/playlist.m3u8"
+      },
+      {
+        "name": "Arryadia TV",
+        "logo": "https://ui-avatars.com/api/?name=Arryadia&background=1e293b&color=fff&rounded=true",
+        "url": "https://stream-lb.livemediama.com/arryadia/hls/stream_1/playlist.m3u8"
+      },
+      {
         "name": "T Sports HD",
         "logo": "https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",
         "url": "https://tvsen7.aynaott.com/tsports-hd/index.m3u8"
@@ -11,6 +36,11 @@
         "name": "Star Sports 1 HD",
         "logo": "https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/Star_Sports_1_HD.png",
         "url": "https://tvsen7.aynaott.com/sspts1/index.m3u8"
+      },
+      {
+        "name": "Sony Ten Cricket HD",
+        "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
       },
       {
         "name": "PTV Sports",
@@ -23,6 +53,11 @@
         "url": "https://tvsen6.aynaott.com/asports/index.m3u8"
       },
       {
+        "name": "A-Sports (Server 2)",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
+        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8"
+      },
+      {
         "name": "Cricket Gold",
         "logo": "https://s3.aynaott.com/storage/7d20b575edc4e4b5276faa8c246e72a4",
         "url": "https://tvsen6.aynaott.com/CricketGold/index.m3u8"
@@ -33,9 +68,14 @@
         "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
       },
       {
-        "name": "FIFA+ Channel",
-        "logo": "https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(11).jpeg",
-        "url": "https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8"
+        "name": "Bleav Football",
+        "logo": "https://s3.aynaott.com/storage/030ec528e912afb9a2ec3b4c5167a928",
+        "url": "https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8"
+      },
+      {
+        "name": "Sport Stars",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
+        "url": "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8"
       },
       {
         "name": "Fox Sports 2",
@@ -73,14 +113,14 @@
         "url": "https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8"
       },
       {
+        "name": "FIFA+ Channel",
+        "logo": "https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(11).jpeg",
+        "url": "https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8"
+      },
+      {
         "name": "Golf Channel",
         "logo": "https://s3.aynaott.com/storage/edb73991516696dfd53efbd32d80ca58",
         "url": "https://tvsen6.aynaott.com/golfchannel/index.m3u8"
-      },
-      {
-        "name": "Bleav Football",
-        "logo": "https://s3.aynaott.com/storage/030ec528e912afb9a2ec3b4c5167a928",
-        "url": "https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8"
       },
       {
         "name": "Talk Sport",
@@ -128,7 +168,7 @@
         "url": "https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8"
       },
       {
-        "name": "MORE THEN SPORTS",
+        "name": "MORE THAN SPORTS",
         "logo": "https://s3.aynaott.com/storage/39174e32d4f8d29a95c881637fe1ecdb",
         "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
       },
@@ -151,6 +191,11 @@
         "name": "Star Jalsha",
         "logo": "https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(9).jpeg",
         "url": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8"
+      },
+      {
+        "name": "Zee Bangla HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png",
+        "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8"
       },
       {
         "name": "ZEE BANGLA",
@@ -301,6 +346,11 @@
         "name": "Somoy News TV",
         "logo": "https://s3.aynaott.com/storage/ece71c1163a377fbe2d93f9d28c34f60",
         "url": "https://tvsen6.aynaott.com/somoytv/index.m3u8"
+      },
+      {
+        "name": "Somoy TV (Server 2)",
+        "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
       },
       {
         "name": "Jamuna TV",
@@ -470,6 +520,31 @@
     ]
   },
   {
+    "category": "INFOTAINMENT",
+    "channels": [
+      {
+        "name": "Discovery HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png",
+        "url": "https://wildearth-plex.amagi.tv/master.m3u8"
+      },
+      {
+        "name": "Animal Planet HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png",
+        "url": "https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8"
+      },
+      {
+        "name": "Sony BBC Earth HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg",
+        "url": "https://wildearth-plex.amagi.tv/master.m3u8"
+      },
+      {
+        "name": "History TV 18 HD",
+        "logo": "https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png",
+        "url": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
+      }
+    ]
+  },
+  {
     "category": "KIDS ZONE",
     "channels": [
       {
@@ -481,6 +556,26 @@
         "name": "Cartoon Network",
         "logo": "https://s3.aynaott.com/storage/a89142109d049ae325fd1681b50bfffb",
         "url": "https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8"
+      },
+      {
+        "name": "Cartoon Network HD (Server 2)",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
+      },
+      {
+        "name": "Nick Bangla",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8"
+      },
+      {
+        "name": "Sony Yay",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Yay.png",
+        "url": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8"
+      },
+      {
+        "name": "Pogo",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8"
       },
       {
         "name": "Disney Channel",
@@ -904,8 +999,8 @@
       },
       {
         "name": "Discover PK",
-        "logo": "https://s3.aynaott.com/storage/1b9208802bbf0cc01f1e8319b0ec633d",
-        "url": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8"
+        "logo": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+        "url": "https://s3.aynaott.com/storage/1b9208802bbf0cc01f1e8319b0ec633d"
       },
       {
         "name": "Saudia Radio",
