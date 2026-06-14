@@ -1,16 +1,101 @@
 [
   {
-    "category": "ICC World Cup 2026 & Sports",
+    "category": "🏆 Sports Channels",
     "channels": [
       {
-        "name": "T-Sports Live 1 (Server 3)",
+        "name": "T-Sports (Server 1)",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
+        "url": "http://103.145.113.11:7171/t-sports/index.m3u8"
+      },
+      {
+        "name": "T-Sports (Server 2)",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
+        "url": "http://103.145.113.11:7171/BTV/index.m3u8"
+      },
+      {
+        "name": "T-Sports (Server 3)",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
         "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
-      },      
+      },
       {
-        "name": "T-Sports Live 1 (Server 3)",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
-        "url": "https://live.asimxtech.online/skyfeed/index.m3u8"
+        "name": "WIN Sports {FIFA}",
+        "logo": "https://i.ibb.co.com/FbNGKKb9/win.jpg",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8"
+      },
+      {
+        "name": "Bein Sports 1 {FIFA}",
+        "logo": "https://i.ibb.co.com/cXQWGjyb/Bein-Sports-1.jpg",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+      },
+      {
+        "name": "Bein Sports 2",
+        "logo": "https://i.ibb.co.com/NdWPFSSw/Bein-Sports-2.jpg",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8"
+      },
+      {
+        "name": "Bein Sports 3",
+        "logo": "https://i.ibb.co.com/1YJxMSGX/Bein-Sports-3.jpg",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/18/index.m3u8"
+      },
+      {
+        "name": "Bein Sports 4 MAX",
+        "logo": "https://i.ibb.co.com/kvtVsnZ/Bein-Sports-4.jpg",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/17/index.m3u8"
+      },
+      {
+        "name": "Bein Sports 5 MAX",
+        "logo": "https://i.ibb.co.com/hxDDB1Vf/bs5m.png",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/16/index.m3u8"
+      },
+      {
+        "name": "Bein Sports 6 MAX",
+        "logo": "https://i.ibb.co.com/DD6t85mv/bs6m.png",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/15/index.m3u8"
+      },
+      {
+        "name": "Bein Sports 7 MAX",
+        "logo": "https://i.ibb.co.com/7t6Jx7v8/bs7m.webp",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/14/index.m3u8"
+      },
+      {
+        "name": "Bein Sports 8 MAX",
+        "logo": "https://i.ibb.co.com/W7WLXQD/bs8m.png",
+        "url": "https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8"
+      },
+      {
+        "name": "Bein Sports Xtra {FIFA}",
+        "logo": "https://i.ibb.co.com/5X3z5dSf/bein-sport-xtra.jpg",
+        "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"
+      },
+      {
+        "name": "DD Sports",
+        "logo": "https://i.ibb.co.com/VchBJ37W/DD-Sports.png",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
+      },
+      {
+        "name": "SONY SPORTS 1",
+        "logo": "https://i.ibb.co.com/wZWDLf5r/sony-ten-sports-1-hd.jpg",
+        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8"
+      },
+      {
+        "name": "SONY SPORTS 2",
+        "logo": "https://i.ibb.co.com/fYbp36Mp/sony-ten-sports-2-hd.jpg",
+        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8"
+      },
+      {
+        "name": "SONY SPORTS 5",
+        "logo": "https://i.ibb.co.com/23CW2X9S/sony-ten-sports-5-hd.jpg",
+        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8"
+      },
+      {
+        "name": "Ten cricket",
+        "logo": "https://i.ibb.co.com/Rp4jxCQS/ten-cricket.png",
+        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8"
+      },
+      {
+        "name": "XTREM SPORTS",
+        "logo": "https://i.ibb.co.com/Vc6KyP7x/XTREM-SPORTS.png",
+        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8"
       },
       {
         "name": "GOL Classics (Football)",
@@ -21,16 +106,6 @@
         "name": "The Hockey Network (IT TV)",
         "logo": "https://ui-avatars.com/api/?name=THN&background=1e293b&color=fff&rounded=true",
         "url": "https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8"
-      },
-      {
-        "name": "Arryadia HD 1",
-        "logo": "https://ui-avatars.com/api/?name=Arryadia+HD&background=1e293b&color=fff&rounded=true",
-        "url": "https://stream-lb.livemediama.com/arryadia-hd-01/hls/stream_1/playlist.m3u8"
-      },
-      {
-        "name": "Arryadia TV",
-        "logo": "https://ui-avatars.com/api/?name=Arryadia&background=1e293b&color=fff&rounded=true",
-        "url": "https://stream-lb.livemediama.com/arryadia/hls/stream_1/playlist.m3u8"
       },
       {
         "name": "Sony Ten Cricket HD",
@@ -51,11 +126,6 @@
         "name": "Sport Stars",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
         "url": "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "DD Sports",
-        "logo": "https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4",
-        "url": "https://cdn-6.pishow.tv/live/13/master.m3u8"
       },
       {
         "name": "NBC Sports",
@@ -115,7 +185,72 @@
     ]
   },
   {
-    "category": "BANGLA ENTERTAINMENT",
+    "category": "🍿 Bangla Channels",
+    "channels": [
+      {
+        "name": "Rajdhani TV",
+        "logo": "https://i.ibb.co.com/21cf2JMJ/raj.jpg",
+        "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
+      },
+      {
+        "name": "Ayna",
+        "logo": "https://i.ibb.co.com/F4QWxMQ1/ayna.jpg",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/index.m3u8"
+      },
+      {
+        "name": "Channel S BD",
+        "logo": "https://i.ibb.co.com/nqgrD4VB/chsbd.jpgg",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/index.m3u8"
+      },
+      {
+        "name": "Desh TV",
+        "logo": "https://i.ibb.co.com/hRfwD8jk/DESH-TV1.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8"
+      },
+      {
+        "name": "Ekushey TV",
+        "logo": "https://i.ibb.co.com/JwWDTBpG/ekusheytv.jpg",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8"
+      },
+      {
+        "name": "Enter TV",
+        "logo": "https://i.ibb.co.com/Ng4D11Vr/entertv.jpg",
+        "url": "https://live1.entertv.com.bd/entertv/index.fmp4.m3u8"
+      },
+      {
+        "name": "Global TV",
+        "logo": "https://i.ibb.co.com/VW3CX9WS/globaltv.jpg",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8"
+      },
+      {
+        "name": "Jagonews24",
+        "logo": "https://i.ibb.co.com/C3Y8NtQz/jagonews24.png",
+        "url": "https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8"
+      },
+      {
+        "name": "Mohona TV",
+        "logo": "https://i.ibb.co.com/Z6yn2N5v/mohona.jpg",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/index.m3u8"
+      },
+      {
+        "name": "RTV",
+        "logo": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8"
+      },
+      {
+        "name": "Thikana TV",
+        "logo": "https://i.ibb.co.com/RpwqzPZg/thikana.png",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/index.m3u8"
+      },
+      {
+        "name": "Toffee Dramas",
+        "logo": "https://i.ibb.co.com/xt6RK79j/toffeed.png",
+        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=toffee_drama&e=.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "🍿 Bangla Entertainment",
     "channels": [
       {
         "name": "Star Jalsha",
@@ -138,19 +273,9 @@
         "url": "https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8"
       },
       {
-        "name": "NTV",
-        "logo": "https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
-      },
-      {
         "name": "Deepto TV",
         "logo": "https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",
         "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8"
-      },
-      {
-        "name": "Channel I",
-        "logo": "https://cdn.tvpassport.com/image/station/240x135/channel-i-bangla.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
       },
       {
         "name": "Thikana",
@@ -175,37 +300,77 @@
     ]
   },
   {
-    "category": "BANGLA NEWS",
+    "category": "🌐 Hindi Channels",
     "channels": [
       {
-        "name": "Somoy TV (Server 2)",
-        "logo": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
+        "name": "AAJ Entertainment",
+        "logo": "https://i.ibb.co.com/fGFV4nB0/aaj-entertainment.png",
+        "url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8"
       },
       {
-        "name": "Jamuna TV (Server 2)",
-        "logo": "https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
+        "name": "GEO Entertainment",
+        "logo": "https://i.ibb.co.com/wV9f2FR/Geo-Entertainment.png",
+        "url": "https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8"
       },
       {
-        "name": "Channel 24 (Server 2)",
-        "logo": "https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
+        "name": "Green Entertainment",
+        "logo": "https://i.ibb.co.com/fGx2j20K/Green-Entertainment.jpg",
+        "url": "https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8"
       },
       {
-        "name": "Ekattor TV (Server 2)",
-        "logo": "https://s4.gifyu.com/images/imagea02f4314e761661d.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
+        "name": "Hum TV",
+        "logo": "https://i.ibb.co.com/jkkPqjQY/Hum-TV.png",
+        "url": "https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8"
       },
       {
-        "name": "Independent TV (Server 2)",
-        "logo": "https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
+        "name": "R Plus News",
+        "logo": "https://i.ibb.co.com/HfJv8ddj/r-plus-news.jpg",
+        "url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8"
+      },
+      {
+        "name": "Sony Aath",
+        "logo": "https://i.ibb.co.com/Q7xrRk9M/Sony-Aath.png",
+        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyaath&e=.m3u8"
+      },
+      {
+        "name": "Sony max",
+        "logo": "https://i.ibb.co.com/x8BT8GP8/Sony-max.png",
+        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max&e=.m3u8"
+      },
+      {
+        "name": "Sony Max 2",
+        "logo": "https://i.ibb.co.com/21kw4b3y/Sony-max-2.webp",
+        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sonymax_2&e=.m3u8"
+      },
+      {
+        "name": "Star Jalsa",
+        "logo": "https://i.ibb.co.com/6Jt6b5Hb/Star-Jalsa.png",
+        "url": "https://tvsen3.aynaott.com/n64PH4YL/index.m3u8"
+      },
+      {
+        "name": "& Pictures HD",
+        "logo": "https://i.ibb.co.com/Gv7dD77X/Pictures-HD.png",
+        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=andpicture_hd&e=.m3u8"
+      },
+      {
+        "name": "TV9 Bangla",
+        "logo": "https://i.ibb.co.com/mCG39yx1/TV9-Bangla.png",
+        "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8"
+      },
+      {
+        "name": "Zee bangla HD",
+        "logo": "https://tvsen6.aynaott.com/ZeeBangla/index.m3u8",
+        "url": "https://tvsen6.aynaott.com/ZeeBangla/index.m3u8"
+      },
+      {
+        "name": "Zee cinema",
+        "logo": "https://i.ibb.co.com/s96Fpsht/Zee-cinema.png",
+        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=zee_cinema_hd&e=.m3u8"
       }
     ]
   },
   {
-    "category": "INTERNATIONAL & HINDI NEWS",
+    "category": "📰 Live News & Info",
     "channels": [
       {
         "name": "TV9 Bangla",
@@ -270,7 +435,7 @@
     ]
   },
   {
-    "category": "INFOTAINMENT",
+    "category": "🔬 Infotainment",
     "channels": [
       {
         "name": "Discovery HD",
@@ -291,11 +456,36 @@
         "name": "History TV 18 HD",
         "logo": "https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png",
         "url": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
+      },
+      {
+        "name": "Animal Planet HD (Server 2)",
+        "logo": "https://i.ibb.co/rKDWDxN2/animal-planet-hd.png",
+        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=animal_planet_hd&e=.m3u8"
+      },
+      {
+        "name": "BBC Earth HD (Server 2)",
+        "logo": "https://i.ibb.co/chXbmcSx/BBC-Earth.png",
+        "url": "https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8"
+      },
+      {
+        "name": "Discovery HD (Server 2)",
+        "logo": "https://i.ibb.co/1GyTG78k/Discovery-HD.webp",
+        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=discovery_hd&e=.m3u8"
+      },
+      {
+        "name": "History TV HD (Server 2)",
+        "logo": "https://i.ibb.co/k6kCjZr1/History-TV.png",
+        "url": "https://n18syndication.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/master.m3u8"
+      },
+      {
+        "name": "NHK {FIFA}",
+        "logo": "https://i.ibb.co/1Hq3X01/nhkworldjapan.png",
+        "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"
       }
     ]
   },
   {
-    "category": "KIDS ZONE",
+    "category": "🧸 Kids Channels",
     "channels": [
       {
         "name": "Cartoon Network HD (Server 2)",
@@ -341,11 +531,21 @@
         "name": "TVCARiB Kids",
         "logo": "https://s3.aynaott.com/storage/c6fde511a99e5134dbf12b77da386cb6",
         "url": "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8"
+      },
+      {
+        "name": "Duronto TV",
+        "logo": "https://i.ibb.co/W4f29nX8/Duronto-TV.jpg",
+        "url": "https://tvsen6.aynaott.com/durontotv-live/index.m3u8"
+      },
+      {
+        "name": "sony yay Bangla (Server 2)",
+        "logo": "https://i.ibb.co/nN76qbWk/sony-yay-Bangla.png",
+        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyyay&e=.m3u8"
       }
     ]
   },
   {
-    "category": "MOVIES, MUSIC & DOCUMENTARY",
+    "category": "🎬 Movies, Music & Doc",
     "channels": [
       {
         "name": "Sangeet Bangla",
@@ -361,11 +561,6 @@
         "name": "G Series Drama",
         "logo": "https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(7).jpeg",
         "url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "Party Universe",
-        "logo": "https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(1).png",
-        "url": "https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8"
       },
       {
         "name": "ShemarooTV",
@@ -425,7 +620,47 @@
     ]
   },
   {
-    "category": "ENGLISH & HINDI ENTERTAINMENT",
+    "category": "🎬 Music & Entertainment",
+    "channels": [
+      {
+        "name": "Bengali Beats",
+        "logo": "https://i.ibb.co.com/jPCD1N8z/Bengali-Beats.png",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8"
+      },
+      {
+        "name": "B4U Music",
+        "logo": "https://i.ibb.co.com/99DZSqFt/B4-U-Music.png",
+        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=b4u_music&e=.m3u8"
+      },
+      {
+        "name": "Music india",
+        "logo": "https://i.ibb.co.com/yFsXTB1Q/music-india.jpg",
+        "url": "https://cdn-2.pishow.tv/live/226/master.m3u8"
+      },
+      {
+        "name": "9X Jalwa",
+        "logo": "https://i.ibb.co.com/C55MK0XS/9x-jalwa.jpg",
+        "url": "https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8"
+      },
+      {
+        "name": "9xm",
+        "logo": "https://i.ibb.co.com/1tRMMTMk/9xm.jpg",
+        "url": "https://wiselp.wiseplayout.com/9XM/master.m3u8"
+      },
+      {
+        "name": "YRF Music",
+        "logo": "https://i.ibb.co.com/NX0PSR3/yrf-music.jpg",
+        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"
+      },
+      {
+        "name": "Zoom",
+        "logo": "https://i.ibb.co.com/G3nWv4HP/zoom.jpg",
+        "url": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "🌐 English & Hindi",
     "channels": [
       {
         "name": "Geo ENT",
@@ -460,7 +695,7 @@
     ]
   },
   {
-    "category": "LIFESTYLE & TRAVEL",
+    "category": "🗺️ Lifestyle & Travel",
     "channels": [
       {
         "name": "Travel XP",
@@ -485,13 +720,33 @@
     ]
   },
   {
-    "category": "RELIGIOUS, WEATHER & INFO",
+    "category": "🕌 Religious Channels",
     "channels": [
       {
-        "name": "Islamic TV",
-        "logo": "https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(8).jpeg",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8"
+        "name": "Ilm",
+        "logo": "https://i.ibb.co.com/ymYTcLW9/ilm.jpg",
+        "url": "https://tplay.live/originals/ilm-tv/index.m3u8"
       },
+      {
+        "name": "Madani Bangla",
+        "logo": "https://tvsen7.aynaott.com/MadaniTV/index.m3u8",
+        "url": "https://tvsen7.aynaott.com/MadaniTV/index.m3u8"
+      },
+      {
+        "name": "SAUDI QURAN HD",
+        "logo": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8",
+        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8"
+      },
+      {
+        "name": "SAUDI SUNNAH HD",
+        "logo": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8",
+        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "category": "🕌 Religious, Weather & Info",
+    "channels": [
       {
         "name": "Peace TV Bangla",
         "logo": "https://i.ibb.co/Gfw89mC/20240804-033102.png",
@@ -518,11 +773,6 @@
         "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
       },
       {
-        "name": "Saudia Radio",
-        "logo": "https://s3.aynaott.com/storage/76d7d7446ee57ec14ff67c1678725d19",
-        "url": "https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8"
-      },
-      {
         "name": "ABN",
         "logo": "https://s3.aynaott.com/storage/9882913a8d68aa99c0501b64749d6320",
         "url": "https://mediaserver.abnvideos.com/streams/abnurdu.m3u8"
@@ -544,7 +794,7 @@
       },
       {
         "name": "Weather SPY",
-        "logo": "https://s3.aynaott.com/storage/b0bdea4df810e2d46f689cbb6c990c91",
+        "logo": "https://b0bdea4df810e2d46f689cbb6c990c91",
         "url": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8"
       }
     ]
