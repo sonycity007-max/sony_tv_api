@@ -18,6 +18,11 @@
         "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
       },
       {
+        "name": "T-Sports (Server 4)",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
+        "url": "http://103.145.113.11:7171/beinsport2/index.m3u8"
+      },
+      {
         "name": "WIN Sports {FIFA}",
         "logo": "https://i.ibb.co.com/FbNGKKb9/win.jpg",
         "url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8"
