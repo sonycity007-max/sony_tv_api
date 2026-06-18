@@ -10,22 +10,7 @@
       {
         "name": "T-Sports (Server 2)",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
-        "url": "http://10.251.251.2:7171/BTV/index.m3u8"
-      },
-      {
-        "name": "T-Sports (Server 3)",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
-        "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8"
-      },
-      {
-        "name": "T-Sports (Server 4)",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
         "url": "http://10.251.251.2:7171/beinsport2/index.m3u8"
-      },
-      {
-        "name": "T-Sports (Server 5)",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
-        "url": "http://10.251.251.2:7171/Somoy-tv/index.m3u8"
       },
       {
         "name": "WIN Sports {FIFA}",
