@@ -23,84 +23,9 @@
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
       },
       {
-        "name": "Bein Sports 2",
-        "logo": "https://i.ibb.co.com/NdWPFSSw/Bein-Sports-2.jpg",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/20/index.m3u8"
-      },
-      {
-        "name": "Bein Sports 3",
-        "logo": "https://i.ibb.co.com/1YJxMSGX/Bein-Sports-3.jpg",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/18/index.m3u8"
-      },
-      {
-        "name": "Bein Sports 4 MAX",
-        "logo": "https://i.ibb.co.com/kvtVsnZ/Bein-Sports-4.jpg",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/17/index.m3u8"
-      },
-      {
-        "name": "Bein Sports 5 MAX",
-        "logo": "https://i.ibb.co.com/hxDDB1Vf/bs5m.png",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/16/index.m3u8"
-      },
-      {
-        "name": "Bein Sports 6 MAX",
-        "logo": "https://i.ibb.co.com/DD6t85mv/bs6m.png",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/15/index.m3u8"
-      },
-      {
-        "name": "Bein Sports 7 MAX",
-        "logo": "https://i.ibb.co.com/7t6Jx7v8/bs7m.webp",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/14/index.m3u8"
-      },
-      {
-        "name": "Bein Sports 8 MAX",
-        "logo": "https://i.ibb.co.com/W7WLXQD/bs8m.png",
-        "url": "https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8"
-      },
-      {
-        "name": "Bein Sports Xtra {FIFA}",
-        "logo": "https://i.ibb.co.com/5X3z5dSf/bein-sport-xtra.jpg",
-        "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8"
-      },
-      {
         "name": "DD Sports",
         "logo": "https://i.ibb.co.com/VchBJ37W/DD-Sports.png",
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
-      },
-      {
-        "name": "SONY SPORTS 1",
-        "logo": "https://i.ibb.co.com/wZWDLf5r/sony-ten-sports-1-hd.jpg",
-        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8"
-      },
-      {
-        "name": "SONY SPORTS 2",
-        "logo": "https://i.ibb.co.com/fYbp36Mp/sony-ten-sports-2-hd.jpg",
-        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8"
-      },
-      {
-        "name": "SONY SPORTS 5",
-        "logo": "https://i.ibb.co.com/23CW2X9S/sony-ten-sports-5-hd.jpg",
-        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8"
-      },
-      {
-        "name": "Ten cricket",
-        "logo": "https://i.ibb.co.com/Rp4jxCQS/ten-cricket.png",
-        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8"
-      },
-      {
-        "name": "XTREM SPORTS",
-        "logo": "https://i.ibb.co.com/Vc6KyP7x/XTREM-SPORTS.png",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8"
-      },
-      {
-        "name": "GOL Classics (Football)",
-        "logo": "https://ui-avatars.com/api/?name=GOL+Classics&background=1e293b&color=fff&rounded=true",
-        "url": "https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics_2.m3u8"
-      },
-      {
-        "name": "The Hockey Network (IT TV)",
-        "logo": "https://ui-avatars.com/api/?name=THN&background=1e293b&color=fff&rounded=true",
-        "url": "https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8"
       },
       {
         "name": "Sony Ten Cricket HD",
@@ -108,69 +33,19 @@
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
       },
       {
-        "name": "A-Sports (Server 2)",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
-        "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8"
-      },
-      {
         "name": "Bleav Football",
         "logo": "https://s3.aynaott.com/storage/030ec528e912afb9a2ec3b4c5167a928",
         "url": "https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8"
       },
       {
-        "name": "Sport Stars",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
-        "url": "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "NBC Sports",
-        "logo": "https://s3.aynaott.com/storage/0a241a80bf51d2c3b3722531706ce086",
-        "url": "https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8"
-      },
-      {
-        "name": "FIFA+ Channel",
-        "logo": "https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images%20(11).jpeg",
-        "url": "https://37b4c228.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/6f5437c5-e015-4754-8476-c8c6d27d3a55/1.m3u8"
-      },
-      {
-        "name": "KTV Sport Plus",
-        "logo": "https://s3.aynaott.com/storage/b54495ee3cdd53ddaa19d1f98120f488",
-        "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8"
-      },
-      {
-        "name": "SPORTS FIRST",
-        "logo": "https://s3.aynaott.com/storage/748d28752dcf95740561f1ac39e15fc3",
-        "url": "https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8"
-      },
-      {
-        "name": "Xtream Sports",
-        "logo": "https://s3.aynaott.com/storage/e1749cf3040f11c63e722c941f213927",
-        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8"
+        "name": "DD Sports (Alt)",
+        "logo": "https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4",
+        "url": "https://cdn-6.pishow.tv/live/13/master.m3u8"
       },
       {
         "name": "Bahrain Sports",
         "logo": "https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142",
         "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
-      },
-      {
-        "name": "WOF 1",
-        "logo": "https://s3.aynaott.com/storage/1a580ee2636a0c4761e623bc131ba7a6",
-        "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8"
-      },
-      {
-        "name": "speed sports 1",
-        "logo": "https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e",
-        "url": "https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "MORE THAN SPORTS",
-        "logo": "https://s3.aynaott.com/storage/39174e32d4f8d29a95c881637fe1ecdb",
-        "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
-      },
-      {
-        "name": "Oman Sports TV",
-        "logo": "https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9",
-        "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
       },
       {
         "name": "Sports Fishing TV",
@@ -321,46 +196,6 @@
         "name": "R Plus News",
         "logo": "https://i.ibb.co.com/HfJv8ddj/r-plus-news.jpg",
         "url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8"
-      },
-      {
-        "name": "Sony Aath",
-        "logo": "https://i.ibb.co.com/Q7xrRk9M/Sony-Aath.png",
-        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyaath&e=.m3u8"
-      },
-      {
-        "name": "Sony max",
-        "logo": "https://i.ibb.co.com/x8BT8GP8/Sony-max.png",
-        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max&e=.m3u8"
-      },
-      {
-        "name": "Sony Max 2",
-        "logo": "https://i.ibb.co.com/21kw4b3y/Sony-max-2.webp",
-        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sonymax_2&e=.m3u8"
-      },
-      {
-        "name": "Star Jalsa",
-        "logo": "https://i.ibb.co.com/6Jt6b5Hb/Star-Jalsa.png",
-        "url": "https://tvsen3.aynaott.com/n64PH4YL/index.m3u8"
-      },
-      {
-        "name": "& Pictures HD",
-        "logo": "https://i.ibb.co.com/Gv7dD77X/Pictures-HD.png",
-        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=andpicture_hd&e=.m3u8"
-      },
-      {
-        "name": "TV9 Bangla",
-        "logo": "https://i.ibb.co.com/mCG39yx1/TV9-Bangla.png",
-        "url": "https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8yq/live_720p/chunks.m3u8"
-      },
-      {
-        "name": "Zee bangla HD",
-        "logo": "https://tvsen6.aynaott.com/ZeeBangla/index.m3u8",
-        "url": "https://tvsen6.aynaott.com/ZeeBangla/index.m3u8"
-      },
-      {
-        "name": "Zee cinema",
-        "logo": "https://i.ibb.co.com/s96Fpsht/Zee-cinema.png",
-        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=zee_cinema_hd&e=.m3u8"
       }
     ]
   },
@@ -413,7 +248,7 @@
         "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8"
       },
       {
-        "name": "R Plus",
+        "name": "R Plus News (Alt)",
         "logo": "https://s3.aynaott.com/storage/9531f970bb7abf30ac2a48f40838c3a1",
         "url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8"
       },
@@ -421,11 +256,6 @@
         "name": "BEK TV News",
         "logo": "https://s3.aynaott.com/storage/4eaf83274ee309489b535852b1780ad2",
         "url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8"
-      },
-      {
-        "name": "Star News",
-        "logo": "https://raw.githubusercontent.com/Rakib49/Rakibiptv/main/images.png",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8"
       }
     ]
   },
@@ -451,31 +281,6 @@
         "name": "History TV 18 HD",
         "logo": "https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png",
         "url": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
-      },
-      {
-        "name": "Animal Planet HD (Server 2)",
-        "logo": "https://i.ibb.co/rKDWDxN2/animal-planet-hd.png",
-        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=animal_planet_hd&e=.m3u8"
-      },
-      {
-        "name": "BBC Earth HD (Server 2)",
-        "logo": "https://i.ibb.co/chXbmcSx/BBC-Earth.png",
-        "url": "https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8"
-      },
-      {
-        "name": "Discovery HD (Server 2)",
-        "logo": "https://i.ibb.co/1GyTG78k/Discovery-HD.webp",
-        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=discovery_hd&e=.m3u8"
-      },
-      {
-        "name": "History TV HD (Server 2)",
-        "logo": "https://i.ibb.co/k6kCjZr1/History-TV.png",
-        "url": "https://n18syndication.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/master.m3u8"
-      },
-      {
-        "name": "NHK {FIFA}",
-        "logo": "https://i.ibb.co/1Hq3X01/nhkworldjapan.png",
-        "url": "https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8"
       }
     ]
   },
@@ -513,11 +318,6 @@
         "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8"
       },
       {
-        "name": "Kids Pang TV",
-        "logo": "https://s3.aynaott.com/storage/bc2a021f901e4d1de4948f314536c1bf",
-        "url": "https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8"
-      },
-      {
         "name": "Dios Te Ve Kids",
         "logo": "https://s3.aynaott.com/storage/6712a3c8a28689cfda4148faf095fa67",
         "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8"
@@ -526,16 +326,6 @@
         "name": "TVCARiB Kids",
         "logo": "https://s3.aynaott.com/storage/c6fde511a99e5134dbf12b77da386cb6",
         "url": "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8"
-      },
-      {
-        "name": "Duronto TV",
-        "logo": "https://i.ibb.co/W4f29nX8/Duronto-TV.jpg",
-        "url": "https://tvsen6.aynaott.com/durontotv-live/index.m3u8"
-      },
-      {
-        "name": "sony yay Bangla (Server 2)",
-        "logo": "https://i.ibb.co/nN76qbWk/sony-yay-Bangla.png",
-        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyyay&e=.m3u8"
       }
     ]
   },
@@ -615,53 +405,8 @@
     ]
   },
   {
-    "category": "🎬 Music & Entertainment",
-    "channels": [
-      {
-        "name": "Bengali Beats",
-        "logo": "https://i.ibb.co.com/jPCD1N8z/Bengali-Beats.png",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209587/tracks-v1a1/mono.ts.m3u8"
-      },
-      {
-        "name": "B4U Music",
-        "logo": "https://i.ibb.co.com/99DZSqFt/B4-U-Music.png",
-        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=b4u_music&e=.m3u8"
-      },
-      {
-        "name": "Music india",
-        "logo": "https://i.ibb.co.com/yFsXTB1Q/music-india.jpg",
-        "url": "https://cdn-2.pishow.tv/live/226/master.m3u8"
-      },
-      {
-        "name": "9X Jalwa",
-        "logo": "https://i.ibb.co.com/C55MK0XS/9x-jalwa.jpg",
-        "url": "https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8"
-      },
-      {
-        "name": "9xm",
-        "logo": "https://i.ibb.co.com/1tRMMTMk/9xm.jpg",
-        "url": "https://wiselp.wiseplayout.com/9XM/master.m3u8"
-      },
-      {
-        "name": "YRF Music",
-        "logo": "https://i.ibb.co.com/NX0PSR3/yrf-music.jpg",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8"
-      },
-      {
-        "name": "Zoom",
-        "logo": "https://i.ibb.co.com/G3nWv4HP/zoom.jpg",
-        "url": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8"
-      }
-    ]
-  },
-  {
     "category": "🌐 English & Hindi",
     "channels": [
-      {
-        "name": "Geo ENT",
-        "logo": "https://s3.aynaott.com/storage/e0d54d73e6b9cf211cd760650467e596",
-        "url": "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
-      },
       {
         "name": "Action H'wood",
         "logo": "https://s3.aynaott.com/storage/baef6dd41c3ee6fabbb59bb8403cc1eb",
@@ -715,31 +460,6 @@
     ]
   },
   {
-    "category": "🕌 Religious Channels",
-    "channels": [
-      {
-        "name": "Ilm",
-        "logo": "https://i.ibb.co.com/ymYTcLW9/ilm.jpg",
-        "url": "https://tplay.live/originals/ilm-tv/index.m3u8"
-      },
-      {
-        "name": "Madani Bangla",
-        "logo": "https://tvsen7.aynaott.com/MadaniTV/index.m3u8",
-        "url": "https://tvsen7.aynaott.com/MadaniTV/index.m3u8"
-      },
-      {
-        "name": "SAUDI QURAN HD",
-        "logo": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8",
-        "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8"
-      },
-      {
-        "name": "SAUDI SUNNAH HD",
-        "logo": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8"
-      }
-    ]
-  },
-  {
     "category": "🕌 Religious, Weather & Info",
     "channels": [
       {
@@ -768,6 +488,11 @@
         "url": "https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8"
       },
       {
+        "name": "Saudia Radio",
+        "logo": "https://s3.aynaott.com/storage/76d7d7446ee57ec14ff67c1678725d19",
+        "url": "https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8"
+      },
+      {
         "name": "ABN",
         "logo": "https://s3.aynaott.com/storage/9882913a8d68aa99c0501b64749d6320",
         "url": "https://mediaserver.abnvideos.com/streams/abnurdu.m3u8"
@@ -789,7 +514,7 @@
       },
       {
         "name": "Weather SPY",
-        "logo": "https://b0bdea4df810e2d46f689cbb6c990c91",
+        "logo": "https://s3.aynaott.com/storage/b0bdea4df810e2d46f689cbb6c990c91",
         "url": "https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8"
       }
     ]
