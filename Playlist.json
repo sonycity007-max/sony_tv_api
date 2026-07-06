@@ -10,10 +10,14 @@
       {
         "name": "T-Sports (Server 2)",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
+        "url": "http://10.251.251.2:7171/GAZI/index.m3u8
+      {
+        "name": "T-Sports (Server 3)",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
         "url": "http://10.251.251.2:7171/asports/index.m3u8"
       },
       {
-        "name": "T-Sports (Server 3)",
+        "name": "T-Sports (Server 4)",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
         "url": "http://10.251.251.2:7171/beinsport2/index.m3u8"
       },
@@ -26,31 +30,6 @@
         "name": "Bein Sports 1 {FIFA}",
         "logo": "https://i.ibb.co.com/cXQWGjyb/Bein-Sports-1.jpg",
         "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
-      },
-      {
-        "name": "DD Sports",
-        "logo": "https://i.ibb.co.com/VchBJ37W/DD-Sports.png",
-        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
-      },
-      {
-        "name": "Sony Ten Cricket HD",
-        "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",
-        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
-      },
-      {
-        "name": "Bleav Football",
-        "logo": "https://s3.aynaott.com/storage/030ec528e912afb9a2ec3b4c5167a928",
-        "url": "https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "DD Sports (Alt)",
-        "logo": "https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4",
-        "url": "https://cdn-6.pishow.tv/live/13/master.m3u8"
-      },
-      {
-        "name": "Bahrain Sports",
-        "logo": "https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142",
-        "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
       },
       {
         "name": "Sports Fishing TV",
@@ -68,59 +47,14 @@
         "url": "https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8"
       },
       {
-        "name": "Ayna",
-        "logo": "https://i.ibb.co.com/F4QWxMQ1/ayna.jpg",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/index.m3u8"
-      },
-      {
-        "name": "Channel S BD",
-        "logo": "https://i.ibb.co.com/nqgrD4VB/chsbd.jpgg",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/index.m3u8"
-      },
-      {
-        "name": "Desh TV",
-        "logo": "https://i.ibb.co.com/hRfwD8jk/DESH-TV1.png",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/index.m3u8"
-      },
-      {
-        "name": "Ekushey TV",
-        "logo": "https://i.ibb.co.com/JwWDTBpG/ekusheytv.jpg",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/index.m3u8"
-      },
-      {
         "name": "Enter TV",
         "logo": "https://i.ibb.co.com/Ng4D11Vr/entertv.jpg",
         "url": "https://live1.entertv.com.bd/entertv/index.fmp4.m3u8"
       },
       {
-        "name": "Global TV",
-        "logo": "https://i.ibb.co.com/VW3CX9WS/globaltv.jpg",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/index.m3u8"
-      },
-      {
         "name": "Jagonews24",
         "logo": "https://i.ibb.co.com/C3Y8NtQz/jagonews24.png",
         "url": "https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8"
-      },
-      {
-        "name": "Mohona TV",
-        "logo": "https://i.ibb.co.com/Z6yn2N5v/mohona.jpg",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/index.m3u8"
-      },
-      {
-        "name": "RTV",
-        "logo": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/index.m3u8"
-      },
-      {
-        "name": "Thikana TV",
-        "logo": "https://i.ibb.co.com/RpwqzPZg/thikana.png",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/index.m3u8"
-      },
-      {
-        "name": "Toffee Dramas",
-        "logo": "https://i.ibb.co.com/xt6RK79j/toffeed.png",
-        "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=toffee_drama&e=.m3u8"
       }
     ]
   },
@@ -153,11 +87,6 @@
         "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8"
       },
       {
-        "name": "Thikana",
-        "logo": "https://s3.aynaott.com/storage/6d1aaa03b84a69992940873fc11af8fc",
-        "url": "https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8"
-      },
-      {
         "name": "DD Bangla",
         "logo": "https://s3.aynaott.com/storage/e5117c508d18adf0a3f2475eb1fd5a9d",
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8"
@@ -171,36 +100,6 @@
         "name": "Deshe Bideshe",
         "logo": "https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg",
         "url": "https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8"
-      }
-    ]
-  },
-  {
-    "category": "🌐 Hindi Channels",
-    "channels": [
-      {
-        "name": "AAJ Entertainment",
-        "logo": "https://i.ibb.co.com/fGFV4nB0/aaj-entertainment.png",
-        "url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8"
-      },
-      {
-        "name": "GEO Entertainment",
-        "logo": "https://i.ibb.co.com/wV9f2FR/Geo-Entertainment.png",
-        "url": "https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8"
-      },
-      {
-        "name": "Green Entertainment",
-        "logo": "https://i.ibb.co.com/fGx2j20K/Green-Entertainment.jpg",
-        "url": "https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8"
-      },
-      {
-        "name": "Hum TV",
-        "logo": "https://i.ibb.co.com/jkkPqjQY/Hum-TV.png",
-        "url": "https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8"
-      },
-      {
-        "name": "R Plus News",
-        "logo": "https://i.ibb.co.com/HfJv8ddj/r-plus-news.jpg",
-        "url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8"
       }
     ]
   },
@@ -253,7 +152,7 @@
         "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8"
       },
       {
-        "name": "R Plus News (Alt)",
+        "name": "R Plus",
         "logo": "https://s3.aynaott.com/storage/9531f970bb7abf30ac2a48f40838c3a1",
         "url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8"
       },
@@ -326,11 +225,6 @@
         "name": "Dios Te Ve Kids",
         "logo": "https://s3.aynaott.com/storage/6712a3c8a28689cfda4148faf095fa67",
         "url": "https://s.emisoras.tv:8081/diostevekids/index.m3u8"
-      },
-      {
-        "name": "TVCARiB Kids",
-        "logo": "https://s3.aynaott.com/storage/c6fde511a99e5134dbf12b77da386cb6",
-        "url": "https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8"
       }
     ]
   },
