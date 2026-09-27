@@ -28,41 +28,6 @@
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
       },
       {
-        "name": "Arryadia TV",
-        "logo": "https://ui-avatars.com/api/?name=Arryadia&background=1e293b&color=fff&rounded=true",
-        "url": "https://stream-lb.livemediama.com/arryadia/hls/stream_1/playlist.m3u8"
-      },
-      {
-        "name": "Sony Ten Cricket HD",
-        "logo": "https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",
-        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8"
-      },
-      {
-        "name": "Bein Sports 1",
-        "logo": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8",
-        "url": "https://flussonic.defineatoz.com/sonysport2L/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "SPORTS FIRST",
-        "logo": "https://s3.aynaott.com/storage/748d28752dcf95740561f1ac39e15fc3",
-        "url": "https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8"
-      },
-      {
-        "name": "Marquee Sports",
-        "logo": "https://s3.aynaott.com/storage/66bdaa21aba96de6d32a3515715f7502",
-        "url": "https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8"
-      },
-      {
-        "name": "Sports Grid",
-        "logo": "https://s3.aynaott.com/storage/1aa37e387ed56a1260b285558eec7c46",
-        "url": "https://tvsen6.aynaott.com/SportsGrid/index.m3u8"
-      },
-      {
-        "name": "Xtream Sports",
-        "logo": "https://s3.aynaott.com/storage/e1749cf3040f11c63e722c941f213927",
-        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8"
-      },
-      {
         "name": "Bahrain Sports",
         "logo": "https://s3.aynaott.com/storage/f55bea3263be1af187fe1122e4f44142",
         "url": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8"
@@ -73,16 +38,6 @@
         "url": "https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mainstreammediafreesportsintl-rakuten/CDN/master.m3u8"
       },
       {
-        "name": "speed sports 1",
-        "logo": "https://s3.aynaott.com/storage/06f5b193bfa4d31310ee934eb3c2222e",
-        "url": "https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8"
-      },
-      {
-        "name": "MORE THAN SPORTS",
-        "logo": "https://s3.aynaott.com/storage/39174e32d4f8d29a95c881637fe1ecdb",
-        "url": "https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8"
-      },
-      {
         "name": "Oman Sports TV",
         "logo": "https://s3.aynaott.com/storage/33f87783637fc95fdb8837ba9344c9e9",
         "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8"
@@ -91,36 +46,6 @@
         "name": "Sports Fishing TV",
         "logo": "https://ui-avatars.com/api/?name=Fishing&background=2a2d35&color=fff&rounded=true",
         "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8"
-      }
-    ]
-  },
-  {
-    "category": "🌐 Hindi Channels",
-    "channels": [
-      {
-        "name": "AAJ Entertainment",
-        "logo": "https://i.ibb.co.com/fGFV4nB0/aaj-entertainment.png",
-        "url": "https://ml-pull-dvc-myco.io:2096/AAJ_ENTERTAINMENT/index.m3u8"
-      },
-      {
-        "name": "GEO Entertainment",
-        "logo": "https://i.ibb.co.com/wV9f2FR/Geo-Entertainment.png",
-        "url": "https://ml-pull-dvc-myco.io:2096/GEO_ENTERTAINEMNT/index.m3u8"
-      },
-      {
-        "name": "Green Entertainment",
-        "logo": "https://i.ibb.co.com/fGx2j20K/Green-Entertainment.jpg",
-        "url": "https://ml-pull-dvc-myco.io:2096/GREEN_ENTERTAINMENT/index.m3u8"
-      },
-      {
-        "name": "Hum TV",
-        "logo": "https://i.ibb.co.com/jkkPqjQY/Hum-TV.png",
-        "url": "https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8"
-      },
-      {
-        "name": "R Plus News",
-        "logo": "https://i.ibb.co.com/HfJv8ddj/r-plus-news.jpg",
-        "url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8"
       }
     ]
   },
